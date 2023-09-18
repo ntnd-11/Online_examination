@@ -1,0 +1,32 @@
+.Link {
+    text-decoration: none;
+    color: black;
+    padding: 8px 0;
+    font-family: 'Inter';
+    border-width: 1px;
+    margin-bottom: 8px;
+    border-left: none;
+    border-right: none;
+    padding-left: 16px;
+    display: flex;
+    align-items: center;
+}
+
+.Link-Focus {
+    text-decoration: none;
+    color: #fff;
+    padding: 8px 0;
+    font-family: 'Inter';
+    border-width: 1px;
+    margin-bottom: 8px;
+    border-left: none;
+    border-right: none;
+    padding-left: 16px;
+    background-color: rgb(84, 161, 228);
+    font-weight: 600;
+}
+
+.Link:hover {
+    background-color: rgb(84, 161, 228);
+    color: #fff;
+}

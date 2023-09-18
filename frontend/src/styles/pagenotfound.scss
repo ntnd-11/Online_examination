@@ -1,0 +1,31 @@
+.returnBtn {
+    padding: 10px;
+    background-color: #FF6347;
+    border-radius: 40px;
+    font-family:'Trebuchet MS';
+    width: 200px;
+    margin: 0 auto;
+    text-decoration: none !important;
+    text-align: center;
+    position: relative;
+}
+
+.returnBtn:hover {
+    text-decoration: none;
+    opacity: 90%;
+    cursor: 'pointer'
+}
+
+.title1 {
+    font-size: 80px;
+    font-family: 'Trebuchet MS';
+    color: #FF6347;
+    margin: 0 auto;
+}
+.title2 {
+    font-size: 30px;
+    font-family: 'Trebuchet MS';
+    padding-bottom: 15px;
+    margin: 0 auto;
+
+}
